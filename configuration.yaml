@@ -1,0 +1,9 @@
+#absolute path to where data is located (my local machine)
+path: /Users/andismacbookair/Documents/Biometrics Spring2023/Final Project/data 
+#relative to 'path'
+train: images/train
+val: images/train
+
+#label of object dectected
+nc : 1
+names: ['hand']
