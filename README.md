@@ -12,10 +12,10 @@
 ## **Examples Images**
 ###### Below I have included images from test I ran using my classifer. 
 - Image 1: This is an example of a clear detection of all features.
-<img src="https://github.com/Andi-Cast/Array_Class/blob/main/ArrayClassUML.png" height="auto" width="50%" >
+<img src="https://github.com/Andi-Cast/Hand_Face_Shoulder_Detector/blob/main/ExampleScreenShots/clearDetection.png" height="auto" width="50%" >
 - Image 2: This image displays valid detections but due to the hands obstucting the shoulder regions there were error with detections.
-<img src="https://github.com/Andi-Cast/Array_Class/blob/main/ArrayClassUML.png" height="auto" width="50%" >
-- Image 3: This is a classic problem that was expected with this assignment. It is very challenging developing a program that is able to detect every feature when the hands were placed on/behind the head. To my surprise, the detector was able to find the hands in this frame.<img src="https://github.com/Andi-Cast/Array_Class/blob/main/ArrayClassUML.png" height="auto" width="50%" >
+<img src="https://github.com/Andi-Cast/Hand_Face_Shoulder_Detector/blob/main/ExampleScreenShots/shoulderDetectionErrorOne.png" height="auto" width="50%" >
+- Image 3: This is a classic problem that was expected with this assignment. It is very challenging developing a program that is able to detect every feature when the hands were placed on/behind the head. To my surprise, the detector was able to find the hands in this frame.<img src="https://github.com/Andi-Cast/Hand_Face_Shoulder_Detector/blob/main/ExampleScreenShots/handsOneHeadError.png" height="auto" width="50%" >
 
 -----
 ## **Steps I Took To Train Custom Classifier**
